@@ -24,7 +24,6 @@ body {
 }
 .card {
   width: 305px;
-  height: 120px;
   background-color: #9edef9;
   border-radius: 1rem;
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5);
